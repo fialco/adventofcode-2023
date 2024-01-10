@@ -31,7 +31,7 @@ def wasteland(info):
         if location == "ZZZ":
             return result
 
-def wasteland2(info):
+def wasteland2(info): #Doesn't work, waaaay too slow
     info = info.split("\n")
 
     graph = {}
@@ -116,5 +116,5 @@ if __name__ == "__main__":
     f = open("day8_input.txt")
     data = f.read().strip()
     #print(wasteland(data))
-    print(wasteland2(data))
+    #print(wasteland2(data))
 

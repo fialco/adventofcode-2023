@@ -3,6 +3,7 @@
 * Day 2 : 2
 * Day 3 : 2
 * Day 4 : 2
+* Day 5 : 1
 * Day 6 : 2
 * Day 7 : 2
 * Day 8 : 1
@@ -11,5 +12,6 @@
 * Day 13 : 1
 * Day 14 : 1
 * Day 15 : 2
+* Day 18 : 2
 
-## Total: 21
+## Total: 24
